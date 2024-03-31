@@ -1,0 +1,12 @@
+count of company sizes , 
+avg of paying money/count of company size
+avg salaries of remote / semi remote / in place
+avg salaries of each job title
+
+experience levels count versus company size
+
+
+part time salaries avg , full time salaries avg for each jobtitle
+
+
+
